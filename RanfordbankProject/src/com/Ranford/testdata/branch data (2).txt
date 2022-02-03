@@ -1,0 +1,5 @@
+@@@Bname@@@Badd1@@@Bzip@@@Cntry@@@State@@@city
+Sruthi@@@Ameerpet@@@12345@@@INDIA@@@GOA@@@GOA
+Sarala@@@Mgbs@@@54321@@@INDIA@@@GOA@@@GOA
+Sanjana@@@#Cbs@@@67890@@@INDIA@@@GOA@@@GOA
+Lavanya@@@SRnagar@@@09876@@@INDIA@@@GOA@@@GOA
